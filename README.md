@@ -108,7 +108,7 @@ To use the MySQL upload feature, ensure:
 ## 📥 Output Example
 
   * **CSV File**: `/outputs/result.csv`
-  * **ETL Script**: `/outputs/etl_pipeline_<timestamp>.py`
+  * **ETL Script**: `etl_pipeline_<timestamp>.py`
 
 ETL scripts can be reused or scheduled for recurring data pulls.
 
